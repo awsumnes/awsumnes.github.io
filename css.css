@@ -2,10 +2,10 @@ body{
 	
 font-family: "Helvetica", "Arial", fantasy;
 	
-color: #AAFF00;
-	background-color: #ADD3F9;
+color: #4d4d4d;
+	background-color: #b3ffec;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1px 1px #000000;
 	text-align: center;
 
 }
@@ -18,7 +18,7 @@ font-size: 1.3em;
 	
 text-align: center;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1px 1px #000000;
 
 }
 
@@ -37,6 +37,6 @@ padding: 8px;
 
 tr:nth-child(even) {
     
-background-color: #dddddd;
+background-color: #d9d9d9;
 
 }
